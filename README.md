@@ -1,4 +1,4 @@
-# Automate Sqoop Jobs Migration from On-premise to Elastic MapReduce
+# Automate Sqoop Jobs Migration from On-premise to Amazon Elastic MapReduce
 
 ***
 
