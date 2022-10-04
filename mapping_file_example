@@ -1,0 +1,8 @@
+[replace]
+--connect?MY-IP:MY-PORT::mydb.cluster-ctho43vhpuqq.us-east-1.rds.amazonaws.com:3306
+--fields-terminated-by?|::&
+--null-non-string?N::t
+
+[insert]
+--password-alias secret
+-Dhadoop.security.credential.provider.path=jceks://hdfs/tmp/secret.jceks

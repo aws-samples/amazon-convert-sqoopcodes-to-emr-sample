@@ -1,5 +1,3 @@
-## Amazon Samples Codes - Convert Sqoop Codes to AWS EMR
-
 # Automate Sqoop Jobs Migration from On-premise to Elastic MapReduce
 
 ***
@@ -95,10 +93,4 @@ Go to EMR, connect in MASTER instance (SSH or Session Manager) and execute the f
 - Execute the python code changing the parameters:
 1. your_region: the region where you deployed your stack
 2. your_secret_name: your secret name
-
-
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
 
