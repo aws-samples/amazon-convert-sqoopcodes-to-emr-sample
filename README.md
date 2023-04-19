@@ -4,7 +4,7 @@
 
 ## Summary
 
-There are many customers using on-premise Hadoop environments with Sqoop ingestion to compound the raw layer and they hope to migrate to AWS Cloud using lift and shift strategy. This pattern presents how to migrate Sqoop codes to AWS EMR and provide a security layer with reusable artifacts. Based in previous customers experiences, it was defined a flow using on-premise Sqoop options files and convert them with best practices of: security, agility and speed to guarantee a fast adoption of AWS Cloud. This conversion process suggests an ingestion flow using shell scripts commands and supports conversions of files with eval, import and export Sqoop commands.
+There are many customers using on-premise Hadoop environments with Sqoop ingestion to compound the raw layer and they hope to migrate to AWS Cloud using lift and shift strategy. This pattern presents how to migrate Sqoop codes to AWS EMR and provide a security layer with reusable artifacts. Based in previous customers experiences, it was defined a flow using on-premise Sqoop options files and convert them with best practices of: security, agility and speed to guarantee a fast adoption of AWS Cloud. This conversion process suggests an ingestion flow using shell scripts commands and supports conversions of files with eval, import and export Sqoop commands / functions.
 
 
 ## Prerequisites
